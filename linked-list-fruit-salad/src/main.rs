@@ -13,6 +13,7 @@ A LinkedList is a doubly-linked list, which means that each element in the list
 has a pointer to the next element and the previous element.
 A great example of when to use a LinkedList is when you need to insert or remove elements
 from the middle of the list..
+From Coursera course https://www.coursera.org/learn/data-engineering-rust
 */
 
 use rand::prelude::IteratorRandom;
