@@ -6,6 +6,8 @@ to the back of the deque. Finally, it prints out the final fruit salad.
 
 A VecDeque is a double-ended queue, which means that you can push and pop from both ends
 of the queue..
+From Coursera course https://www.coursera.org/learn/data-engineering-rust
+
 */
 
 use rand::seq::SliceRandom; // rand is a random number generation library in Rust
